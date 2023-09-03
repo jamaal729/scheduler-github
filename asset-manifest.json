@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/scheduler-github/static/css/main.f4d38ce6.chunk.css",
+    "main.js": "/scheduler-github/static/js/main.028dc34f.chunk.js",
+    "main.js.map": "/scheduler-github/static/js/main.028dc34f.chunk.js.map",
+    "runtime-main.js": "/scheduler-github/static/js/runtime-main.3437eb87.js",
+    "runtime-main.js.map": "/scheduler-github/static/js/runtime-main.3437eb87.js.map",
+    "static/css/2.17e61147.chunk.css": "/scheduler-github/static/css/2.17e61147.chunk.css",
+    "static/js/2.60196a41.chunk.js": "/scheduler-github/static/js/2.60196a41.chunk.js",
+    "static/js/2.60196a41.chunk.js.map": "/scheduler-github/static/js/2.60196a41.chunk.js.map",
+    "index.html": "/scheduler-github/index.html",
+    "precache-manifest.37ac7e7513d74af55ecb82068eae80dd.js": "/scheduler-github/precache-manifest.37ac7e7513d74af55ecb82068eae80dd.js",
+    "service-worker.js": "/scheduler-github/service-worker.js",
+    "static/css/2.17e61147.chunk.css.map": "/scheduler-github/static/css/2.17e61147.chunk.css.map",
+    "static/css/main.f4d38ce6.chunk.css.map": "/scheduler-github/static/css/main.f4d38ce6.chunk.css.map",
+    "static/js/2.60196a41.chunk.js.LICENSE.txt": "/scheduler-github/static/js/2.60196a41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3437eb87.js",
+    "static/css/2.17e61147.chunk.css",
+    "static/js/2.60196a41.chunk.js",
+    "static/css/main.f4d38ce6.chunk.css",
+    "static/js/main.028dc34f.chunk.js"
+  ]
+}
